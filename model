@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T10:22:36.336Z" agent="5.0 (Windows)" version="17.4.5" etag="Rn-M6uWmWCWZ8aCg-Uq1" type="github"><diagram id="igpGH4M97hJPkgt83SVZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T10:31:26.430Z" agent="5.0 (Windows)" etag="ajHL2bW5oM0fr8b08kSI" version="17.4.5" type="github">
+  <diagram id="igpGH4M97hJPkgt83SVZ" name="Page-1">
+    <mxGraphModel dx="2249" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;$$ User \ Movement&amp;nbsp; \ Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="555" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;$$ Charging\&amp;nbsp; Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="555" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;$$ Local \ Computing \ Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;$$ Edge \ Computing \ Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$ Local \ Delay$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="360" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-8" value="$$ Local \ Delay$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teZwqg3HxqQ4ms8HcFCs-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$ Local \ Computing \ Delay$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
