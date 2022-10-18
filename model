@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T12:23:22.832Z" agent="5.0 (Windows)" etag="_MYW5gX_U5ac5m8v9RzR" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T12:23:39.392Z" agent="5.0 (Windows)" etag="PNYLYvXgsmKeu_oYsJ-V" version="17.4.5" type="github">
   <diagram id="igpGH4M97hJPkgt83SVZ" name="Page-1">
     <mxGraphModel dx="1422" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="zrECRjQDMc_U0LsWxdFK-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="zrECRjQDMc_U0LsWxdFK-98" target="zrECRjQDMc_U0LsWxdFK-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zrECRjQDMc_U0LsWxdFK-98" value="$$MADDPG-based method$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="zrECRjQDMc_U0LsWxdFK-98" value="$$MADDPG-based \ Method$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="305" height="60" as="geometry" />
         </mxCell>
       </root>
