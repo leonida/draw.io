@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T06:09:13.969Z" agent="5.0 (Windows)" etag="zkMfBCgzryjJiEwigDB6" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T06:12:20.910Z" agent="5.0 (Windows)" etag="kD1i3cYTPB6XQNclmOVK" version="20.4.2" type="github">
   <diagram id="8HXd06Zs-zNEdsr8r8aW" name="第 1 页">
-    <mxGraphModel dx="782" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1738" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DW0vB-UItoo3-7lF0b40-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="515" y="-920" width="1085" height="460" as="geometry" />
+          <mxGeometry x="515" y="-920" width="1035" height="460" as="geometry" />
         </mxCell>
         <mxCell id="DW0vB-UItoo3-7lF0b40-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1330" y="-805" width="200" height="210" as="geometry" />
@@ -103,8 +103,8 @@
         <mxCell id="DW0vB-UItoo3-7lF0b40-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Task&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="910" y="-900" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DW0vB-UItoo3-7lF0b40-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;$$e_i^{pred}&amp;lt;ba_i^{rem}$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-960" width="280" height="40" as="geometry" />
+        <mxCell id="DW0vB-UItoo3-7lF0b40-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sufficient battery power&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-960" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DW0vB-UItoo3-7lF0b40-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Move&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210.55" y="-890" width="60" height="30" as="geometry" />
