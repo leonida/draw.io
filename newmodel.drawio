@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T02:12:22.188Z" agent="5.0 (Windows)" version="20.4.2" etag="ucUiv7L0yK2awdpbXMpA" type="github"><diagram id="8HXd06Zs-zNEdsr8r8aW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-21T02:12:44.174Z" agent="5.0 (Windows)" etag="SN5yLgq30ocwe1YEc-xJ" version="20.4.2" type="github">
+  <diagram id="8HXd06Zs-zNEdsr8r8aW" name="第 1 页">
+    <mxGraphModel dx="1422" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DW0vB-UItoo3-7lF0b40-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="340" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-3" target="DW0vB-UItoo3-7lF0b40-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;$$ User \ Movement&amp;nbsp; \ Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="-90" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-5" target="DW0vB-UItoo3-7lF0b40-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="439" y="23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;$$ Charging\&amp;nbsp; Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="331.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-7" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;$$ Local \ Computing \ Model $$&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="134" y="250" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-9" target="DW0vB-UItoo3-7lF0b40-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;$$ Edge \ Computing \ Model $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="394" y="250" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$Energy \ Consumption$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="301.12" y="351.25" width="175" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-12" target="DW0vB-UItoo3-7lF0b40-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$Task$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56.5" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-15" target="DW0vB-UItoo3-7lF0b40-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-15" target="DW0vB-UItoo3-7lF0b40-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="102" y="-67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-15" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;$$ User \ Device $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" width="115" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-18" target="DW0vB-UItoo3-7lF0b40-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-18" target="DW0vB-UItoo3-7lF0b40-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="230" />
+              <mxPoint x="454" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;$$ Task \ Partitioning \ Strategy $$&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="174" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-20" target="DW0vB-UItoo3-7lF0b40-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;$$ Resource \ Allocation \ Strategy $$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="464" y="180" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-23" target="DW0vB-UItoo3-7lF0b40-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-23" target="DW0vB-UItoo3-7lF0b40-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="20" />
+              <mxPoint x="614" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-23" value="$$Available \ Servers$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="624" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;$$Server \ Cost$$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500.87" y="351.25" width="121.25" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-25" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;$$ Latency$$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="187.12" y="351.25" width="90" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-28" target="DW0vB-UItoo3-7lF0b40-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DW0vB-UItoo3-7lF0b40-28" target="DW0vB-UItoo3-7lF0b40-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DW0vB-UItoo3-7lF0b40-28" value="$$MADDPG-based \ Method$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="254" y="80" width="305" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
