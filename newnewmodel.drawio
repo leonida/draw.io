@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T14:38:19.309Z" agent="5.0 (Windows)" etag="FoLgIIeU56XmiBhOWpUV" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T14:38:35.024Z" agent="5.0 (Windows)" etag="afRvuaM1eNLc8SEgd7-w" version="20.5.1" type="github">
   <diagram id="fb8ZDuRJnv1m2EMCCQK1" name="第 1 页">
     <mxGraphModel dx="2831" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="59596a_35e80KVfduihG-49" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#000033&quot;&gt;&lt;br style=&quot;font-size: 30px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#000033&quot;&gt;Available MEC Servers&lt;br style=&quot;font-size: 30px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Times New Roman;fontSize=30;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="301.79" y="-795" width="317.53" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="59596a_35e80KVfduihG-52" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;All MEC Servers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Times New Roman;fontSize=21;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="59596a_35e80KVfduihG-52" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;All MEC Servers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fontFamily=Times New Roman;fontSize=21;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-534.93" y="-765" width="253.14" height="70" as="geometry" />
         </mxCell>
         <mxCell id="59596a_35e80KVfduihG-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;strokeColor=#36393d;strokeWidth=1;fontFamily=Times New Roman;fontSize=21;fillColor=#f9f7ed;" parent="1" vertex="1">
