@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T13:20:10.711Z" agent="5.0 (Windows)" etag="GlyOhE9iJ2sfsCVpgWs4" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T13:22:54.611Z" agent="5.0 (Windows)" etag="Y3I9hzlACS035vfoMeyv" version="20.5.1" type="github">
   <diagram id="fb8ZDuRJnv1m2EMCCQK1" name="第 1 页">
     <mxGraphModel dx="2831" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="59596a_35e80KVfduihG-19" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Requirements:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1. Low latency &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2. Low energy consumption &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3. Low server cost&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="521.62" y="-40" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="59596a_35e80KVfduihG-24" value="&lt;font style=&quot;font-size: 23px;&quot; color=&quot;#000033&quot;&gt;Task&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fontFamily=Times New Roman;fontSize=21;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="59596a_35e80KVfduihG-24" value="&lt;font style=&quot;font-size: 23px;&quot; color=&quot;#000033&quot;&gt;Task&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fontFamily=Times New Roman;fontSize=21;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="271.5" y="139.98" width="188.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="59596a_35e80KVfduihG-25" value="&lt;font color=&quot;#000033&quot;&gt;Multiple subtasks&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Times New Roman;fontSize=21;fontColor=#FF8000;" parent="1" vertex="1">
