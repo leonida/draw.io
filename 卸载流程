@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T06:50:38.669Z" agent="5.0 (Windows)" version="20.7.4" etag="WriYcVLFn7lWkZaawv7M" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T07:08:04.098Z" agent="5.0 (Windows)" version="20.7.4" etag="aFqN-k7npPBo2oBDNGZN" type="github">
   <diagram id="hL4AXVjoi9LLxn-xOxoz" name="第 1 页">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="DgzfWdat4lrdpd0CY6D0-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DgzfWdat4lrdpd0CY6D0-14" target="DgzfWdat4lrdpd0CY6D0-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DgzfWdat4lrdpd0CY6D0-14" value="本地执行计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="392" y="590" width="130" height="60" as="geometry" />
+        <mxCell id="DgzfWdat4lrdpd0CY6D0-14" value="本地计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="403" y="590" width="107" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DgzfWdat4lrdpd0CY6D0-16" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="450" y="540" width="40" height="40" as="geometry" />
@@ -68,9 +68,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DgzfWdat4lrdpd0CY6D0-23" value="卸载计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="392" y="700" width="128" height="60" as="geometry" />
+          <mxGeometry x="400" y="700" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DgzfWdat4lrdpd0CY6D0-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DgzfWdat4lrdpd0CY6D0-25" target="DgzfWdat4lrdpd0CY6D0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgzfWdat4lrdpd0CY6D0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;dashed=1;" edge="1" parent="1" source="DgzfWdat4lrdpd0CY6D0-25" target="DgzfWdat4lrdpd0CY6D0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DgzfWdat4lrdpd0CY6D0-25" value="确定卸载策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
