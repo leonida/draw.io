@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T05:49:19.912Z" agent="5.0 (Windows)" etag="7Ii2jAhDKlXLv8McjI9u" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T05:51:21.716Z" agent="5.0 (Windows)" etag="dFWfsgrpLXF4PvIhrU40" version="20.7.4" type="github">
   <diagram id="yLfp3r3MLGoRGBMNGUni" name="第 1 页">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="07D19T6TwiFnizXQC633-13" value="$$\hat{V}(s,w)$$" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="330" y="340" width="150" height="20" as="geometry" />
+          <mxGeometry x="330" y="340" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XYuCiPTNgUouV81zrgI5-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="20" height="20" as="geometry" />
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XYuCiPTNgUouV81zrgI5-26" value="$$\hat{Q}(s,a,w)$$" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="150" height="20" as="geometry" />
+          <mxGeometry x="580" y="340" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XYuCiPTNgUouV81zrgI5-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="20" height="20" as="geometry" />
