@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T07:25:26.254Z" agent="5.0 (Windows)" etag="7e5uEf2DyPh4kTo3PA5x" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T07:31:31.558Z" agent="5.0 (Windows)" etag="54E4fuYv3Lr14VzgW1ok" version="20.7.4" type="github">
   <diagram id="yLfp3r3MLGoRGBMNGUni" name="第 1 页">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -679,7 +679,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kVgQlxHQZcRwFcsFBHhw-183" value="$$价值Q(s,a|w)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1295" width="150" height="30" as="geometry" />
+          <mxGeometry x="489" y="1295" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kVgQlxHQZcRwFcsFBHhw-186" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=31.666666666666668;endSize=5.558333333333334;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry x="1" y="10" width="50" height="50" relative="1" as="geometry">
