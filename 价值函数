@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T08:29:35.988Z" agent="5.0 (Windows)" etag="bm9S7omNAMGcbiPQIUd1" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T08:46:46.244Z" agent="5.0 (Windows)" etag="xGkcfVolm3Ygmvy9xKSy" version="20.7.4" type="github">
   <diagram id="yLfp3r3MLGoRGBMNGUni" name="第 1 页">
     <mxGraphModel dx="2261" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1218,7 +1218,7 @@
         <mxCell id="ZZSfkn8HauXYIrJ--iE2-80" value="$$Q&#39;_{\omega&#39;}\left(s^{\prime}, a^{\prime}\right)$$" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="109" y="110" width="81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZZSfkn8HauXYIrJ--iE2-81" value="$$a&#39;=argmax(Q_{\omega}(s))$$" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ZZSfkn8HauXYIrJ--iE2-81" value="$$a&#39;=argmax(Q_{\omega}(s&#39;))$$" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-185" y="350" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZZSfkn8HauXYIrJ--iE2-82" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontSize=15;" edge="1" parent="1">
