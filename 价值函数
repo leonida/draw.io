@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T04:36:57.782Z" agent="5.0 (Windows)" etag="BUeReUNKJGEkIxTU-8my" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T08:29:35.988Z" agent="5.0 (Windows)" etag="bm9S7omNAMGcbiPQIUd1" version="20.7.4" type="github">
   <diagram id="yLfp3r3MLGoRGBMNGUni" name="第 1 页">
     <mxGraphModel dx="2261" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1104,7 +1104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZSfkn8HauXYIrJ--iE2-51" value="$$Q_{\omega}(s&#39;,a_1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="245" width="180" height="30" as="geometry" />
+          <mxGeometry x="-260" y="250" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZSfkn8HauXYIrJ--iE2-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
