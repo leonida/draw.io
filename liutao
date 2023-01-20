@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T11:37:26.666Z" agent="5.0 (Windows)" version="20.8.5" etag="wDi-ddPmS88pnAMPpAQ9" type="github"><diagram id="27Og13XYD1qgTVEvrVnf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-20T11:37:39.809Z" agent="5.0 (Windows)" version="20.8.5" etag="tLHJ3blXg_I5XAhVdwh1" type="github">
+  <diagram id="TLGhtCo3EoNqSRNBPuVW" name="第 1 页">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-3" target="8h2hoJrndYGIfWMIbAqH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-3" target="8h2hoJrndYGIfWMIbAqH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-3" value="初筛文献（n=1669）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-5" target="8h2hoJrndYGIfWMIbAqH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-5" value="去重后汇总（n=1319）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-7" target="8h2hoJrndYGIfWMIbAqH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-7" value="初筛（n=241）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-8" value="阅读题目和摘要" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-10" target="8h2hoJrndYGIfWMIbAqH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-10" value="复筛（n=76）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-11" value="阅读全文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-13" target="8h2hoJrndYGIfWMIbAqH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-13" value="中药治疗FD伴抑郁情绪相关研究（n=76）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8h2hoJrndYGIfWMIbAqH-15" target="8h2hoJrndYGIfWMIbAqH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-15" value="处方（n=74）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-16" value="FD伴抑郁情绪数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-17" value="去重（n=350）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-18" value="&lt;ul&gt;&lt;li&gt;知网（n=346）&lt;/li&gt;&lt;li&gt;万方（n=800）&lt;/li&gt;&lt;li&gt;维普（n=523）&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="510" y="75" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="180" as="sourcePoint" />
+            <mxPoint x="510" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-20" value="排除非临床研究等（n=1078）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="280" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-22" value="不符合钠排标准（n=165）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="370" as="sourcePoint" />
+            <mxPoint x="510" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-24" value="不同文献相同处方（n=2）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h2hoJrndYGIfWMIbAqH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="529.5" as="sourcePoint" />
+            <mxPoint x="510" y="529.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
