@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T04:40:12.393Z" agent="5.0 (Windows)" etag="pIXn6nyf6SEe47wMlfuT" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T04:47:54.436Z" agent="5.0 (Windows)" etag="ufTP1Tt1tu4B2ZRi8Yk3" version="20.8.5" type="github">
   <diagram id="npsYvqN1eeueKbxh5FTb" name="第 1 页">
     <mxGraphModel dx="2514" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -251,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9va9fyWDbqVRbjUqIN1n-13" value="&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;$$智能体\ j \ 获取本地状态o_j(t)$$&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="1360" width="205" height="60" as="geometry" />
+          <mxGeometry x="226.25" y="1360" width="217.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9va9fyWDbqVRbjUqIN1n-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;align=center;verticalAlign=middle;" edge="1" parent="1" source="9va9fyWDbqVRbjUqIN1n-15" target="9va9fyWDbqVRbjUqIN1n-9">
           <mxGeometry relative="1" as="geometry">
@@ -429,8 +429,8 @@
             <mxPoint x="24.5" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9va9fyWDbqVRbjUqIN1n-52" value="&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;智能体 j 执行动作$$a_j(t)=(Y_j(t),H_j(t))$$&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-225" y="1407.5" width="320" height="30" as="geometry" />
+        <mxCell id="9va9fyWDbqVRbjUqIN1n-52" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;$$智能体 \ j \ 执行动作$$&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;$$a_j(t)=(Y_j(t),H_j(t))$$&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-165" y="1397.5" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
