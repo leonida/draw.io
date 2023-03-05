@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T03:35:00.823Z" agent="5.0 (Windows)" etag="_Fk90sxDRMo1L7OpdNwP" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T03:36:23.464Z" agent="5.0 (Windows)" etag="MLsAYHZgGIvpqcVba87v" version="21.0.2" type="github">
   <diagram id="fb8ZDuRJnv1m2EMCCQK1" name="第 1 页">
     <mxGraphModel dx="3668" dy="2748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -269,7 +269,7 @@
           <mxGeometry x="-23.060000000000002" y="1042.21" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4upsPd84Usx1YH0ipech-26" value="资源分配策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontSize=30;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="567.5" y="1260" width="220" height="60" as="geometry" />
+          <mxGeometry x="567.5" y="1270" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4upsPd84Usx1YH0ipech-27" value="..." style="text;strokeColor=none;fillColor=none;html=1;fontSize=30;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=2;fontFamily=宋体;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="688.06" y="1042.21" width="101.06" height="41.16" as="geometry" />
@@ -338,7 +338,7 @@
           <mxGeometry x="91.24" y="1707.9" width="321.81" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4upsPd84Usx1YH0ipech-49" value="边缘计算模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=30;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="91.24" y="1255" width="314.35" height="70" as="geometry" />
+          <mxGeometry x="87.83" y="1265" width="314.35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4upsPd84Usx1YH0ipech-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;strokeColor=#36393d;strokeWidth=1;fontFamily=宋体;fontSize=30;fillColor=#ffcc99;direction=west;rotation=-1;" vertex="1" parent="1">
           <mxGeometry x="8.7" y="1791.21" width="180.03" height="100.21" as="geometry" />
