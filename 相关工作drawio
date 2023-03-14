@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T01:19:07.024Z" agent="5.0 (Windows)" etag="gDSV3fDyCS3OvDmsKRU5" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T01:36:46.269Z" agent="5.0 (Windows)" etag="dCjzAJsioqbmF81w2EC9" version="21.0.4" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -593,13 +593,13 @@
         <mxCell id="pSDTMoB0U2dtOnVqNSzy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pSDTMoB0U2dtOnVqNSzy-20" target="pSDTMoB0U2dtOnVqNSzy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pSDTMoB0U2dtOnVqNSzy-20" value="贪心算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+        <mxCell id="pSDTMoB0U2dtOnVqNSzy-20" value="贪心算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="2100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pSDTMoB0U2dtOnVqNSzy-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pSDTMoB0U2dtOnVqNSzy-21" target="pSDTMoB0U2dtOnVqNSzy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pSDTMoB0U2dtOnVqNSzy-21" value="DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="pSDTMoB0U2dtOnVqNSzy-21" value="DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;dashed=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pSDTMoB0U2dtOnVqNSzy-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pSDTMoB0U2dtOnVqNSzy-24" target="pSDTMoB0U2dtOnVqNSzy-7">
@@ -611,10 +611,10 @@
         <mxCell id="pSDTMoB0U2dtOnVqNSzy-24" value="DDPG算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1385" y="2100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pSDTMoB0U2dtOnVqNSzy-26" value="目标：降低任务执行失败率，提高系统效能。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pSDTMoB0U2dtOnVqNSzy-26" value="目标：降低任务执行失败率，提高系统效能。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="709.75" y="2200" width="362.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pSDTMoB0U2dtOnVqNSzy-28" value="目标：降低任务时延，最小化计算花费。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pSDTMoB0U2dtOnVqNSzy-28" value="目标：降低任务时延，最小化计算花费。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1125.75" y="2200" width="362.5" height="40" as="geometry" />
         </mxCell>
       </root>
