@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T07:09:17.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="6TrleBwXQx7FQP9oBAdX" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T07:10:08.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="aamACMpEHKi8JOXuclzC" version="21.1.1" type="github">
   <diagram name="第 1 页" id="EVr2FbUu_5whW3HEHd_x">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;初始化神经网络参数、经验池、车辆队列和超参数等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="60" width="240" height="60" as="geometry" />
+          <mxGeometry x="320" y="120" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bQ_3Dq-dYB9fH8gbYfWu-4" target="bQ_3Dq-dYB9fH8gbYfWu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-4" value="$$训练轮数e=0$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="140" width="240" height="60" as="geometry" />
+          <mxGeometry x="320" y="200" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bQ_3Dq-dYB9fH8gbYfWu-6" target="bQ_3Dq-dYB9fH8gbYfWu-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-6" value="$$训练步长t=0$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="220" width="240" height="60" as="geometry" />
+          <mxGeometry x="320" y="260" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bQ_3Dq-dYB9fH8gbYfWu-8" target="bQ_3Dq-dYB9fH8gbYfWu-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-8" value="$$t=t+1$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="300" width="240" height="60" as="geometry" />
+          <mxGeometry x="320" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQ_3Dq-dYB9fH8gbYfWu-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bQ_3Dq-dYB9fH8gbYfWu-10" target="bQ_3Dq-dYB9fH8gbYfWu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="1740" />
-              <mxPoint x="270" y="250" />
+              <mxPoint x="270" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
